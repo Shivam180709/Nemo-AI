@@ -20,6 +20,7 @@ from plyer import notification
 import pygame
 
 
+gemini_api_key = "Your Api key here" # See https://ai.google.dev/api/python/google/generativeai/GenerativeModel for more.
 
 def LISTEN(stop_listening, shared_dict,stop_flag):
    
@@ -115,7 +116,7 @@ if __name__ == '__main__':
 
     # Creating  the model
     # See https://ai.google.dev/api/python/google/generativeai/GenerativeModel for more.
-    genai.configure(api_key="AIzaSyC3jexRtiTwxK7ITZmt4JiS-J0DR3OB7Ak")
+    genai.configure(api_key=gemini_api_key)
     generation_config = {
     "temperature": 1.2,
     "top_p": 0.95,
