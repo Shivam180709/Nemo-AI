@@ -1,0 +1,124 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>icon/voice_2.webp</file>
+    <file>icon/voice_1.png</file>
+    <file>icon/Open_icon.webp</file>
+    <file>icon/open.png</file>
+    <file>icon/clearchat.webp</file>
+    <file>icon/how.png</file>
+    <file>icon/jsonicon.png</file>
+    <file>icon/addtomemory.png</file>
+    <file>icon/clear.png</file>
+    <file>icon/edituser.png</file>
+    <file>icon/info.png</file>
+    <file>icon/menumain.png</file>
+    <file>icon/alarmicon.png</file>
+    <file>icon/sound.png</file>
+    <file>icon/bot.png</file>
+    <file>icon/account-logout-64.ico</file>
+    <file>icon/activity-feed-32.ico</file>
+    <file>icon/activity-feed-48.ico</file>
+    <file>icon/add.png</file>
+    <file>icon/add_google_icon.png</file>
+    <file>icon/add_google_icon.svg</file>
+    <file>icon/box-arrow-up-right.svg</file>
+    <file>icon/brightness-high.svg</file>
+    <file>icon/chat.png</file>
+    <file>icon/chatGTP.png</file>
+    <file>icon/chat-left.svg</file>
+    <file>icon/check.svg</file>
+    <file>icon/check-lg.svg</file>
+    <file>icon/close-window-64.ico</file>
+    <file>icon/dark.png</file>
+    <file>icon/dashboard-5-32.ico</file>
+    <file>icon/dashboard-5-48.ico</file>
+    <file>icon/delete.png</file>
+    <file>icon/delete.svg</file>
+    <file>icon/edit (2).svg</file>
+    <file>icon/edit.png</file>
+    <file>icon/edit.svg</file>
+    <file>icon/exclamation-triangle.svg</file>
+    <file>icon/group-32.ico</file>
+    <file>icon/group-48.ico</file>
+    <file>icon/home-4-32.ico</file>
+    <file>icon/home-4-48.ico</file>
+    <file>icon/input.png</file>
+    <file>icon/light.png</file>
+    <file>icon/lightning-charge.svg</file>
+    <file>icon/Logo.png</file>
+    <file>icon/logout.png</file>
+    <file>icon/logout.svg</file>
+    <file>icon/menu-4-32.ico</file>
+    <file>icon/moon.svg</file>
+    <file>icon/Nemo_Logo_Chatwindow.png</file>
+    <file>icon/nemologo.png</file>
+    <file>icon/new-message.png</file>
+    <file>icon/open AI.png</file>
+    <file>icon/open AI.svg</file>
+    <file>icon/pencil-square.svg</file>
+    <file>icon/plus.svg</file>
+    <file>icon/plus-lg.svg</file>
+    <file>icon/product-32.ico</file>
+    <file>icon/product-48.ico</file>
+    <file>icon/reedit.png</file>
+    <file>icon/reedit1.png</file>
+    <file>icon/robot.svg</file>
+    <file>icon/search-13-48.ico</file>
+    <file>icon/send.png</file>
+    <file>icon/send.svg</file>
+    <file>icon/thumb_down.svg</file>
+    <file>icon/thumb_up.svg</file>
+    <file>icon/update.png</file>
+    <file>icon/user.png</file>
+    <file>icon/user.svg</file>
+    <file>icon/user-48.ico</file>
+    <file>icon/WhatsApp Image 2025-01-02 at 22.47.07.jpeg</file>
+    <file>icon/x.svg</file>
+    <file>icon/x-lg.svg</file>
+    <file>icon/Nemo_Logo_Chatwindow.png</file>
+    <file>icon/send.png</file>
+    <file>icon/nemologo.png</file>
+    <file>icon/account-logout-64.ico</file>
+    <file>icon/new-message.png</file>
+    <file>icon/activity-feed-32.ico</file>
+    <file>icon/activity-feed-48.ico</file>
+    <file>icon/close-window-64.ico</file>
+    <file>icon/dashboard-5-32.ico</file>
+    <file>icon/dashboard-5-48.ico</file>
+    <file>icon/group-32.ico</file>
+    <file>icon/group-48.ico</file>
+    <file>icon/home-4-32.ico</file>
+    <file>icon/home-4-48.ico</file>
+    <file>icon/Logo.png</file>
+    <file>icon/menu-4-32.ico</file>
+    <file>icon/product-32.ico</file>
+    <file>icon/product-48.ico</file>
+    <file>icon/search-13-48.ico</file>
+    <file>icon/user-48.ico</file>
+  </qresource>
+  <qresource prefix="images">
+    <file>images/gif3.gif</file>
+    <file>images/img.png</file>
+    <file>images/img (1).jpeg</file>
+    <file>images/img (2).jpeg</file>
+    <file>images/img (3).jpeg</file>
+    <file>images/img (4).jpeg</file>
+    <file>images/ramanujan.jpeg</file>
+    <file>images/user2.png</file>
+    <file>images/user.png</file>
+    <file>images/user3.jpg</file>
+    <file>images/bg1.jfif</file>
+    <file>images/earth.png</file>
+    <file>images/earth2.jpeg</file>
+    <file>images/gif1.gif</file>
+    <file>images/gif2.gif</file>
+    <file>images/gif3.gif</file>
+    <file>images/gif4.gif</file>
+    <file>images/img.jpeg</file>
+    <file>images/img2.jpeg</file>
+    <file>images/nemo.jpg</file>
+    <file>images/nemo_bg.png</file>
+    <file>images/aibrain.gif</file>
+    <file>images/aigif.gif</file>
+  </qresource>
+</RCC>
