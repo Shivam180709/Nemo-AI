@@ -1,0 +1,3 @@
+pyrcc5 your_resource_file.qrc -o your_resource_file.py
+
+pyuic5 -o output_filename.py your_ui_file.ui

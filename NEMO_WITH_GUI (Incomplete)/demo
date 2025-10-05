@@ -1,0 +1,22 @@
+import subprocess
+
+# Start the inner program
+def start_inner():
+    global proc
+    proc = subprocess.Popen(["python", "Nemo_Main_File.py"])
+    print("Inner program started.")
+
+
+# Stop the inner program
+def stop_inner():
+    proc.terminate()  # or proc.kill()
+    print("Inner program stopped.")
+
+if __name__ == "__main__":
+    start_inner()
+    while True:
+        inp = input("End or Not")
+        if inp=="End":
+
+            stop_inner()
+            break
